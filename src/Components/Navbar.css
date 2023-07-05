@@ -1,0 +1,19 @@
+.item{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-decoration: none;
+}
+
+.nav-list li{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+
+}
+
